@@ -47,5 +47,5 @@ Open index.html in your web browser directly.
 
 (Optional) Use Live Server in VSCode for instant preview.
 
-🌐 Live Website
-👉 Open For My Love
+🌐 Live Website <br>
+👉 [Open For My Love(https://hamidur0x.github.io/for_my_love/)]
